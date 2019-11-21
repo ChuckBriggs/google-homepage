@@ -1,0 +1,48 @@
+body {
+	background-color: #ffffff;
+	color: #404040;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 13px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+ul {
+	display: inline;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	color: #404040;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+
+footer {
+	position: fixed;
+	bottom: 0;
+	background: #f2f2f2;
+	width: 100%;
+	border-top: 1px solid #e4e4e4;
+}
+
+.lefty {
+	float: left;
+}
+
+.righty {
+	float: right;
+}
+
+.buttons {
+}
